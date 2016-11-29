@@ -5,7 +5,7 @@ A fact checker developed in Python.
 ### Pre-requisites ###
 
 - should have sopex installed in your system.
-- For setting up sopex visit `https://github.com/codemaniac/sopex`.
+- For setting up sopex visit [sopex](https://github.com/codemaniac/sopex).
 - Now place the three files (script.py, test.txt) in the directory inside sopex directory.
 - script.py, test.py outside are just to show you what they are.
 - setences.py is just an example how to seperate sentences from a paragraph.
