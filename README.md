@@ -26,7 +26,7 @@ A fact checker developed in Python.
 -----------------------------
 
 #### other team members ####
-- Ashutosh Ranjan
+- [Ashutosh Ranjan](https://github.com/ranjan019)
 - Ayush Joshi
 
 --------------------
