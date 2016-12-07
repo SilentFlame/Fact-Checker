@@ -1,5 +1,7 @@
 # Fact-Checker
 
+[![Join the chat at https://gitter.im/Fact-Checker/Lobby](https://badges.gitter.im/Fact-Checker/Lobby.svg)](https://gitter.im/Fact-Checker/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 A fact checker developed in Python.
 
 ### Pre-requisites ###
