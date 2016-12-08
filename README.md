@@ -8,7 +8,7 @@ A fact checker developed in Python.
 
 - should have sopex installed in your system.
 - For setting up sopex visit [sopex](https://github.com/codemaniac/sopex).
-- Now place the three files (script.py, test.txt) in the directory inside sopex directory.
+- Now place the two files (script.py, test.txt) in the directory inside sopex directory.
 - script.py, test.py outside are just to show you what they are.
 - sentences.py is just an example how to separate sentences from a paragraph.
 - And you are good to go.
