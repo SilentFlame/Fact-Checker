@@ -26,6 +26,7 @@ target = sopex.extract(p)
 
 
 #print triplets[0].object
+#need t
 
 flag1 = -1
 flag2 = -1
